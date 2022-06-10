@@ -1,2 +1,2 @@
 # CelsiusKelvin
- Conversor de temperatura
+ Conversor de temperatura utilizando readline-sync
